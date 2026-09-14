@@ -1,3 +1,4 @@
 {
-    "gitlens.graph.lanes.grouped.min": 40
+    "gitlens.graph.lanes.grouped.min": 40,
+    "gitlens.views.scm.grouped.default": "commits"
 }
